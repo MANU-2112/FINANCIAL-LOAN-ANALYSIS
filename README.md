@@ -23,18 +23,12 @@ The companies main database structure as seen below consists of two tables: Empl
 ![Screenshot 2024-09-23 005602](https://github.com/user-attachments/assets/368d4beb-1472-456a-849d-8f2df9f9d28d)
 
 
-
 ## Executive Summary
 #### Overview of Findings:
 The financial loan analysis shows strong performance with $473.1M received and a 15.8% Month-over-Month increase in repayments. Good loans make up 86.2% of the portfolio, while bad loans represent 13.8%, signaling some risk with defaults or delayed payments. Loan issuance grew by 13.0% MoM, but the rising interest rates (+3.5%) may affect future demand, requiring careful risk management.
 
 Below is the summary page from the PowerBI dashboard.This also contains level 2 and level 3 metrics. The dashboard can be accessed here:               
-
-
-
-[link]
-
-
+![Screenshot 2024-09-23 010517](https://github.com/user-attachments/assets/0fc73e4f-34a6-4ab4-83e1-1bc285399679)
 
 ## Insights Deep Dive
 KPI's:
@@ -54,8 +48,8 @@ A 3.5% MoM increase in the interest rate could attract higher revenues, but may 
 
 5. Average DTI stands at 13.3%, with an MTD average of 13.7%. Lower DTI percentage indicates higher success rate of repayment.
  A 2.7% of MoM appreciates the loan approval system of the bank.
+![Screenshot 2024-09-23 010624](https://github.com/user-attachments/assets/607b8364-e215-4e70-9184-a946b17eeb9b)
 
-[KPI photo]
 
 
 LOAN APPROVAL DECISIONS:
@@ -79,8 +73,7 @@ The Month-to-Date (MTD) funded amount for charged-off loans is $87.3K, signaling
 
 Average interest rates show the highest rate for current loans at 15.10%, compared to 11.64% for fully paid loans,
 indicating charge of higher rates for ongoing loans. This is decent but can be adjusted based on MTD and MoM amount received parameters.
-
-[ GOOD V BAD LOAN PHOTO]
+![Screenshot 2024-09-23 010746](https://github.com/user-attachments/assets/3a11a13b-d639-4839-ae10-4529034fd044)
 
 
 CUSTOMER BASE SEGMENTATION:

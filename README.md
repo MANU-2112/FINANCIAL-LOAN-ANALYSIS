@@ -19,7 +19,7 @@ An interactive PowerBI dashboard used to report and explore trends can be found 
  
 
 ## Data Structure & Initial Checks
-The companies main database structure as seen below consists of two tables: Employee and Financial_Loan tables with a total row count of 39,577 records. A description of each table is as follows:
+The company's provided database structure as seen below consists of two tables: Employee and Financial_Loan tables with a total row count of 39,577 records. A description of each table is as follows:
 
 ![Screenshot 2024-09-23 005602](https://github.com/user-attachments/assets/368d4beb-1472-456a-849d-8f2df9f9d28d)
 

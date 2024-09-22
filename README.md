@@ -49,7 +49,7 @@ KPI's:
    A 3.5% MoM **increase in the interest rate could attract higher revenues, but may also affect loan demand, especially among cost-sensitive borrowers.**
 
 5. Average DTI stands at 13.3%, with an MTD average of 13.7%. Lower DTI percentage indicates higher success rate of repayment.
-   A 2.7% of MoM appreciates the loan approval system of the bank.
+   **A 2.7% of MoM appreciates the loan approval system of the bank.**
    
 ![Screenshot 2024-09-23 010624](https://github.com/user-attachments/assets/607b8364-e215-4e70-9184-a946b17eeb9b)
 
@@ -58,15 +58,15 @@ KPI's:
 LOAN APPROVAL DECISIONS:
 
 1. Good Loans constitute 86.2% of total loan applications. These loans are funded at $370.2M and have resulted in $435.8M in total received amount.
-   **Bad Loans** represent 13.8% (5.3K) of applications, with $65.5M funded and $37.3M recovered. 
+   **Bad Loans represent 13.8% (5.3K) of applications, with $65.5M funded and $37.3M recovered.** 
    **The higher risk and potential loss is noticeable.**
    Month-over-Month (MoM) growth for funded amounts in Good Loans is 13%, while Bad Loans likely show a lower growth, though specific MoM details for bad loans are not visible.
 
-2. **Fully Paid loans** total 32.1K, funded at $351.3M, with a received amount of $413.2M.
+2. **Fully Paid loans total 32.1K, funded at $351.3M, with a received amount of $413.2M.**
    **This shows a high recovery efficiency.**
    Current Loans are 1,098 in number, funded with $18.8M.
    They have brought in $24.1M, indicating strong repayment activity, with $39.4M funded this month.
-   **MoM Fully Paid loans received amount is $47.8M, reflecting stable repayment growth.**
+   MoM Fully Paid loans received amount is $47.8M, reflecting stable repayment growth.
 
 3. **Charged Off loans** total 5.3K, with $65.5M funded and $37.2M received, indicating **significant losses due to defaults.**
    The Month-to-Date (MTD) funded amount for charged-off loans is $87.3K, signaling either reduced new risky loans or write-offs.

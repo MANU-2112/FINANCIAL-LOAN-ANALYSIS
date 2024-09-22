@@ -1,8 +1,3 @@
-
-
-
-
-
 ## Project Background
 APEX FINANCIAL, is a mid-sized financial institution that provides a range of loan products, including personal, auto, and home loans. With a growing customer base, the company has expanded rapidly but is now encountering issues in managing its loan portfolio effectively.
 
@@ -17,25 +12,14 @@ Insights and recommendations are provided on the following key areas:
 
 
 
-Targed SQL queries regarding various business questions can be found here
+Targed SQL queries regarding various business questions can be found here. [Link](https://drive.google.com/file/d/1opjiqFX8QVN-fAyCf8hzsUyZH_ZCA8s4/view?usp=drive_link)
 
-
-
- [link].
-
-
- An interactive PowerBI dashboard used to report and explore  trends can be found here 
+An interactive PowerBI dashboard used to report and explore  trends can be found here. [Link](https://app.powerbi.com/groups/me/reports/15fda782-82d6-4b63-ae2a-d422413270f3/b1d7243543fe61f61797?experience=power-bi)
  
  
- 
- [link].
 
 ## Data Structure & Initial Checks
 The companies main database structure as seen below consists of two tables: Employee and Financial_Loan tables with a total row count of 39,577 records. A description of each table is as follows:
-
-
-[photo]
-
 
 
 

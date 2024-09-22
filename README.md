@@ -68,10 +68,10 @@ LOAN APPROVAL DECISIONS:
    They have brought in $24.1M, indicating strong repayment activity, with $39.4M funded this month.
    MoM Fully Paid loans received amount is $47.8M, reflecting stable repayment growth.
 
-3. **Charged Off loans** total 5.3K, with $65.5M funded and $37.2M received, indicating **significant losses due to defaults.**
+3. **Charged Off loans:** total 5.3K, with $65.5M funded and $37.2M received, indicating **significant losses due to defaults.**
    The Month-to-Date (MTD) funded amount for charged-off loans is $87.3K, signaling either reduced new risky loans or write-offs.
 
-4. **Average interest rates** show the highest rate for current loans at 15.10%, compared to 11.64% for fully paid loans,
+4. **Average interest rates:** show the highest rate for current loans at 15.10%, compared to 11.64% for fully paid loans,
    indicating charge of higher rates for ongoing loans. **This is decent but can be adjusted based on MTD and MoM amount received parameters.**
 
 ![Screenshot 2024-09-23 010746](https://github.com/user-attachments/assets/3a11a13b-d639-4839-ae10-4529034fd044)

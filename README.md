@@ -26,7 +26,7 @@ The company's provided database structure as seen below consists of two tables: 
 
 ## Executive Summary
 #### Summary of Findings:
-The financial loan analysis shows strong performance with $473.1M received and a 15.8% Month-over-Month increase in repayments. Good loans make up 86.2% of the portfolio, while bad loans represent 13.8%, signaling some risk with defaults or delayed payments. Loan issuance grew by 13.0% MoM, but the rising interest rates (+3.5%) may affect future demand, requiring careful risk management.
+The financial loan analysis shows strong performance with $473.1M received and a 15.8% Month-over-Month increase in repayments. Good loans make up 86.2% of the portfolio, while **bad loans represent 13.8%, signaling some risk with defaults or delayed payments**. Loan issuance grew by 13.0% MoM, but the **rising interest rates (+3.5%) may affect future demand, requiring careful risk management.**
 
 Below is the summary page from the PowerBI dashboard.This also contains level 2 and level 3 metrics. The dashboard can be accessed above.   
 
